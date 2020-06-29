@@ -7,11 +7,12 @@
 3. Press "t" to reset Circle!
 4. For colors:
 
-
   4.1 Press "r" to turn Circle! red.
+  
   4.2 Press "b" to turn Circle! blue.
+  
   4.3 Press "g" to turn Circle! green.
 
 ---
 
-###### Have **fun**
+#### Have *fun*
