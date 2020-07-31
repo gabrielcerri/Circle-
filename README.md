@@ -3,7 +3,7 @@
 ### Buttons:
 
 1. Arrow keys: move the circle
-2. Press "s" to shuffle!! Like a DVD Logo
+2. Press "s" to shuffle!! Like the DVD Logo
 3. Press "t" to reset Circle!
 4. For colors:
 
@@ -15,4 +15,4 @@
 
 ---
 
-[*Have fun*] (https://gabrielcerri.github.io/Circle-/ "Circle!")
+[Have fun] (https://gabrielcerri.github.io/Circle-/ "Circle!")
